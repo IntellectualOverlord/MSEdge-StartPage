@@ -38,15 +38,6 @@ Since [here](https://github.com/katalysatorn/MSEdge-StartPage/commit/46ebff255ac
 
 ***Note:*** *These instructions are for Sublime Text 3 and may depend on what text editor you use*
 
-
----
-### Dark
-![MSEdge-StartPage in its dark flavour][darkImg]
-##### [View Live][dark]
----
-### Light
-![MSEdge-StartPage in its light flavour][lightImg]
-##### [View Live][light]
 ---
 
 ### Questions
