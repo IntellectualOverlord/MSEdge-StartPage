@@ -13,7 +13,7 @@ This is a newtab page/ startpage designed for use with chrome/chromium, but it w
 ## Install
 1. Clone the repository `git clone https://github.com/IntellectualOverlord/cool-newtab`.
 2. Unzip it, and copy either (or both) dark/light folders to a location you can access easily, but won't accidentally delete.
-3. Open Microsoft Edge.
+3. Either install the extention [newtab page in chrome](https://github.com/jimschubert/NewTab-Redirect) for chrome/ chromium and follow those directions, or navigate to the settings of your browser and change one of the index.html to your homepage.
 4. Click the three dots in the top right corner.
 5. Open the start page in Microsoft Edge (Right click, open with).
 6. Copy the URL in the address bar.
