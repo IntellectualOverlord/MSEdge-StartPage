@@ -11,7 +11,6 @@ This is a newtab page/ startpage designed for use with chrome/chromium, but it w
 ## Contents
 * [Install](#install)
 * [New Tab Behaviour](#new-tab-behaviour)
-* [Questions](#questions)
 
 ---
 
