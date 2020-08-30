@@ -1,4 +1,4 @@
-# cool-newtab
+## cool-newtab
 This is a newtab/startpage designed for use with chrome/chromium, but will still work with reletively any browser.
 
 ---
@@ -10,5 +10,5 @@ This is a newtab/startpage designed for use with chrome/chromium, but will still
 
 ---
 
-### New Tab Behaviour
+## New Tab Behaviour
 I have made it so that links open in the same the tab. I did this because I use the startpage in conjunction with another github project for changing your [newtab page in chrome](https://github.com/jimschubert/NewTab-Redirect)
