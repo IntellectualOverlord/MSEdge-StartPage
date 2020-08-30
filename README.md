@@ -1,12 +1,5 @@
-[dark]: https://katalysatorn.github.io/MSEdge-StartPage/dark/
-[darkImg]: https://katalysatorn.github.io/MSEdge-StartPage/docs/dark.png
-[light]: https://katalysatorn.github.io/MSEdge-StartPage/light/
-[lightImg]: https://katalysatorn.github.io/MSEdge-StartPage/docs/light.png
-
 # cool-newtab
-This is a newtab page/ startpage designed for use with chrome/chromium, but it will still work with others. cool-newtab comes in two flavors:
-* Dark
-* Light
+This is a newtab/startpage designed for use with chrome/chromium, but will still work with reletively any browser.
 
 ---
 
