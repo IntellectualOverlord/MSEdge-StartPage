@@ -3,10 +3,10 @@
 [light]: https://katalysatorn.github.io/MSEdge-StartPage/light/
 [lightImg]: https://katalysatorn.github.io/MSEdge-StartPage/docs/light.png
 
-# MSEdge-StartPage
-This is a start page designed specifically to look nice with Microsoft Edge. It has two flavours:
-* Dark (Meant for use with App Mode set to Dark)
-* Light (Meant for use with App Mode set to Light)
+# cool-newtab
+This is a newtab page/ startpage designed for use with chrome/chromium, but it will still work with others. cool-newtab comes in two flavors:
+* Dark
+* Light
 
 ## Contents
 * [Install](#install)
