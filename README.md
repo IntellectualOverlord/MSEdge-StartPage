@@ -1,5 +1,5 @@
 ## cool-newtab
-This is a newtab/startpage designed for use with chrome/chromium, but will still work with reletively any browser.
+This is a newtab/startpage designed for use with chromium based browsers.
 
 ---
 
