@@ -29,14 +29,7 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 
 ---
 ### New Tab Behaviour
-Since [here](https://github.com/katalysatorn/MSEdge-StartPage/commit/46ebff255ac01fdd4392b46ce113bcd8fe56512c), I have made it so that the links open it in a new tab. I did this because you cannot set a new tab page to a file, so I wanted it to act as a 'Home' of sorts. You can remove this by:
-1. Opening the `index.html` file in whatever folder your Start Page is in
-2. Hit `Ctrl + H`
-3. In **Find What:** type ` target="_blank"`
-4. Hit **Replace All**
-5. Save the file and it should now open in the current tab.
-
-***Note:*** *These instructions are for Sublime Text 3 and may depend on what text editor you use*
+I have made it so that links open in the same the tab. I did this because I use the startpage in conjunction with another github project for changing your [newtab page in chrome](https://github.com/jimschubert/NewTab-Redirect)
 
 ---
 
