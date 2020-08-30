@@ -16,7 +16,7 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 ---
 
 ## Install
-1. Clone the repository `git clone https://github.com/katalysatorn/MSEdge-StartPage`.
+1. Clone the repository `git clone https://github.com/IntellectualOverlord/cool-newtab`.
 2. Unzip it, and copy either (or both) dark/light folders to a location you can access easily, but won't accidentally delete.
 3. Open Microsoft Edge.
 4. Click the three dots in the top right corner.
@@ -30,10 +30,3 @@ This is a start page designed specifically to look nice with Microsoft Edge. It 
 ---
 ### New Tab Behaviour
 I have made it so that links open in the same the tab. I did this because I use the startpage in conjunction with another github project for changing your [newtab page in chrome](https://github.com/jimschubert/NewTab-Redirect)
-
----
-
-### Questions
-
-If you have any questions, simply [write a new question report](https://github.com/katalysatorn/MSEdge-StartPage/issues/new). It would be preferable as well if you can select the question tag. [It would be preferable as well if you can select the question tag.](https://katalysatorn.github.io/MSEdge-StartPage/docs/questionTag.png)
----
